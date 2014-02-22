@@ -1,2 +1,4 @@
 test
 ====
+
+[mylink] (target.md)
